@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:baba;Khoury;;;
-FN:baba khoury
+N:khoury;baba;;;
+FN:khoury baba
 TEL;TYPE=CELL:03468880
 EMAIL:anthonykhoury23991@hotmail.com
 END:VCARD
